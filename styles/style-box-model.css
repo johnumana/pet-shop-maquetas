@@ -1,0 +1,13 @@
+.num1 {
+    border-bottom: 2px solid blue;
+}
+.num2 {
+    border: 2px solid grey;
+}
+.num3 {
+    border-top: 4px dotted red;
+    border-bottom: 4px dotted red;
+}
+.num4 {
+    border: 4px dotted green;
+}
