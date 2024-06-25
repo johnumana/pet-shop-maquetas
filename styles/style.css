@@ -55,3 +55,18 @@ a {
   background-color: red;
 }
 /*Agrega los selectores aquí */
+* {
+  font-size: 1.2rem;
+}
+.container li {
+  color: blue;
+}
+* {
+  font-size: 1.2rem;
+}
+.container p {
+  color: blue;
+}
+div + p {
+  color: blue;
+}
